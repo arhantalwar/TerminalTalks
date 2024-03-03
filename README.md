@@ -1,8 +1,7 @@
-# TerminalTalk
-
-![thumbnail](./TerminalTalk.png)
+# TerminalTalks
 
 A TUI for text-chat. (Oh, Also written in RUST!!)
+Start the server, Join using telnet.
 
 ## QUICK START
 
@@ -10,3 +9,4 @@ A TUI for text-chat. (Oh, Also written in RUST!!)
 ~ ❯ cargo run
 ~ ❯ telnet 127.0.0.1 6969
 ```
+![thumbnail](./TerminalTalk.png)
